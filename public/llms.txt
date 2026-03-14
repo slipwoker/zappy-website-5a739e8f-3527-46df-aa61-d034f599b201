@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience wearable art where industrial design meets ancient origami craft. Unique handmade jewelry by Liya Kaplan at Tel Aviv&#39;s Nachlat Binyamin art fair.
+
+### Meet Liya
+https://example.com/meet-liya
+From 20 years in industrial design to creating handmade origami jewelry. Discover Liya Kaplan&#39;s journey into wearable art and her unique design philosophy.
+
+### Origami Process
+https://example.com/origami-process
+Explore the intricate process of transforming traditional origami into hand crafted jewellery. Each piece is meticulously folded and crafted by hand.
+
+### Contact
+https://example.com/contact
+Find Liya Kaplan&#39;s handmade jewelry at Nachlat Binyamin art fair in Tel Aviv. Get in touch to learn about unique origami jewelry pieces and custom orders.
+
+### Products
+https://example.com/products
+Our Products - Liya Kaplan
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Liya Kaplan
+
+### Category
+https://example.com/category/:slug
+Products - Liya Kaplan
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
